@@ -1,0 +1,78 @@
+body{
+  background: white;
+}  
+
+img {
+  background: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+
+h1 {
+    color: red;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 100px;
+  }
+
+  h3 {
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+  }
+
+
+.card {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#searchbutton.alert.button {
+    background-color: red;
+}
+
+#randombutton.alert.button {
+  background-color: red;
+}
+
+.grid-container {
+  background: white;
+  text-align: center;
+}
+
+.searchDiv {
+  padding-top: 80px;
+  padding-bottom:100px;
+}
+
+div.recipeCard {
+  margin-bottom: 75px;
+}
+
+.card-divider {
+  background: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.recipeArea {
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+.hide {
+  display: none;
+}
+
+.title {
+  font-weight: bold;
+}
+
+
+
+
+
+
